@@ -1,0 +1,76 @@
+{
+  "hash": "430833fb",
+  "configHash": "1303753a",
+  "lockfileHash": "cc4e24f8",
+  "browserHash": "8a0e25f8",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "b7b38db5",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "46728fa5",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "9991829c",
+      "needsInterop": true
+    },
+    "chart.js": {
+      "src": "../../chart.js/dist/chart.js",
+      "file": "chart__js.js",
+      "fileHash": "e38a2b6d",
+      "needsInterop": false
+    },
+    "date-fns": {
+      "src": "../../date-fns/esm/index.js",
+      "file": "date-fns.js",
+      "fileHash": "07795327",
+      "needsInterop": false
+    },
+    "react-chartjs-2": {
+      "src": "../../react-chartjs-2/dist/index.js",
+      "file": "react-chartjs-2.js",
+      "fileHash": "e71a2a8f",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "70640701",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "3aeca29c",
+      "needsInterop": false
+    },
+    "uuid": {
+      "src": "../../uuid/dist/esm-browser/index.js",
+      "file": "uuid.js",
+      "fileHash": "e828db22",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-52Y5IQXA": {
+      "file": "chunk-52Y5IQXA.js"
+    },
+    "chunk-PBXWVHXV": {
+      "file": "chunk-PBXWVHXV.js"
+    },
+    "chunk-4HAMFFQC": {
+      "file": "chunk-4HAMFFQC.js"
+    },
+    "chunk-EQCVQC35": {
+      "file": "chunk-EQCVQC35.js"
+    }
+  }
+}
